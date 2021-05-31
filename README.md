@@ -1,9 +1,6 @@
 # Chinese-Restuarant-Process
 ### Stochastic Process Project 
 
-The Chinese restaurant process is a discrete-time stochastic process, analogous to 
-seating customers at tables in a Restaurant. 
-
 A Chinese restaurant has an infinite number of tables, each of the tables has no limit on the number of customer seated at that table. 
 
 The first customer seats at the first table, the second customer will seat to the first table with a proportion of __1/(α+1)__
